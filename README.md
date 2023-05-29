@@ -1,2 +1,2 @@
-# Projeto 2 - HTML, CSS e JS
+# Projeto 2 - Calculadora de Médias 
 ## Projeto baseado em HTML, CSS e JS parte do Curso Profissionalizante em Desenvolvimento Web Full Stack Pynthon  
